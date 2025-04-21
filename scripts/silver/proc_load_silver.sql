@@ -11,9 +11,10 @@ Script Purpose:
 - Inserts Transformed and cleaned data from Bronze into Silver Tables.
 
 ----------------------------------
-To Run: EXEC bronze.load_silver;
+To Run: EXEC silver.load_silver;
 ---------------------------------
 */
+
 
 create or alter procedure silver.load_silver as 
 
@@ -40,8 +41,8 @@ BEGIN
 		cust_key,
 		cst_firstname,
 		cst_lastname,
-		cst_marital_status,
 		cst_gndr,
+		cst_marital_status,
 		cst_create_date
 		)
 
