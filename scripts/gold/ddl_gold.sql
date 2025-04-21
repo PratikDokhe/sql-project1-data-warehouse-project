@@ -4,6 +4,8 @@
 DDL Script: Create Gold Tables
 =======================================================================
 
+- The Gold layer represents the fianl dimension and fact tables (STAR Schema)
+
 */
 
 -- Note you have to Run Each gold table SQL seprately.
