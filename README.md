@@ -29,3 +29,4 @@ Develope SQL-based analytics to deliver detailed insights into:
 - I am Pratik Dokhe, I am a Passionate Learner and working as a Data Engineer in Accenture.
 - This is My First SQL Server Project.
 
+Linkedin: www.linkedin.com/in/pratik-dokhe
