@@ -17,14 +17,6 @@ Develop a mordern data warehouse using SQL Server to consolidate sales data, ena
 - **Documentation** : Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
-### BI: Analytics and Reporting (Data Analytics)
-
-#### Objective
-Develope SQL-based analytics to deliver detailed insights into:
-- **Customer Behaviour**
-- **Product Performance**
-- **Sales Trends**
-
 ### About Me:
 - I am Pratik Dokhe, I am a Passionate Learner and working as a Data Engineer at Accenture.
 - This is My First SQL Server Project.
