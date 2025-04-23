@@ -4,7 +4,7 @@ Building a modern data warehouse with SQL server, Including ETL processes, data 
 
 ## Project Requirements:
 
-### Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering) following medallion architecture
 
 #### Objective
 Develop a mordern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
